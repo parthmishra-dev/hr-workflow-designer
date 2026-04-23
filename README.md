@@ -1,19 +1,31 @@
 # HR Workflow Designer
 
-A modern HR workflow builder built using React, TypeScript, Tailwind CSS and React Flow.
+Modern visual HR workflow builder for onboarding, approvals and internal process automation.
 
 ## Features
-- Interactive workflow canvas
-- Modern dashboard UI
-- Workflow status panel
-- Save & Export buttons
-- Clean responsive design
+
+- Visual workflow builder using React Flow
+- Prebuilt HR workflow nodes
+- Real-time workflow status panel
+- Save and Export controls
+- Modern responsive dashboard UI
+- Built with TypeScript for scalability
 
 ## Screenshots
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
-![Canvas](canvas.png)
+![Canvas](Canvas.png)
 
 ## Tech Stack
-React, TypeScript, Tailwind CSS, React Flow
+
+React • TypeScript • Tailwind CSS • React Flow • Vite
+
+## Run Locally
+
+npm install  
+npm run dev
+
+## Author
+
+Parth Mishra
